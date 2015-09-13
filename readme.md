@@ -18,7 +18,7 @@ Each bubble in the chart corresponds to one or more quotations. The horizontal p
 
  The application also provides a **search** functionality. Entering a keyword in the search field and hitting the search button will filter the database and update the chart based only on those quotations that contain the keyword. The latter will then be highlighted in bold letters in the quotations window. Furthermore the visualization can also be reagroupped based on the categorization of the documents. Choosing between the radio buttons on top of the chart will **rearrange** the vertical dimension **according to the document classification**. Since not all documents are assigned a category within each grouping an additional option _All_ is availible which contains all of the documents. Dragging the mouse over a specific area of the chart will **zoom** into it. This is espacially usefull if there are a lot of document types (_National Context_) which do not fit on the Axis description.
 
-    Copyright (C) 2015  Stephan Schloegl
+    Copyright (C) 2015  Stephan Schlögl
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
