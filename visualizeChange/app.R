@@ -69,7 +69,7 @@ server = function(input, output, session) {
 
         d$quoteTable$x <- cdb$x[match(d$quoteTable$code_id, cdb$code_id)]
         d$quoteTable$y <- cdb$y[match(d$quoteTable[, input$facetCat], cdb[ ,input$facetCat])]
-        if(searchTerm!=""){cat("Searched for: ", input$searchTerm,fill=TRUE)}
+        if(input$searchTerm!=""){cat("Searched for: ", input$searchTerm,fill=TRUE)}
         cat("Orderd by: ", input$facetCat,fill=TRUE)
         })
 
