@@ -1,0 +1,43 @@
+
+a {
+    color: #4A4D4D;
+}
+
+a:hover {
+    color: #4A4D4D;
+}
+
+a:active {
+    color: #4A4D4D;
+}
+
+a:visited {
+    color: #4A4D4D;
+}
+
+a:visited {
+    color: #4A4D4D;
+}
+modal-body {
+    font-size: 10px;
+}
+
+h2 {
+    color: #535757;
+    line-height: 1.1;
+}
+
+
+body {
+  background-color: #262626;
+  border-color: #262626;
+  color: #4A4D4D;
+  font-family: 'Lucida Sans Unicode','Lucida Grande';
+  font-size: 12px;
+}
+
+#hover{
+  font-size: 10px;
+  color: #F2F2F2;
+
+}
