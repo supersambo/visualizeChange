@@ -1,6 +1,7 @@
 library(shiny)
 library(shinyBS)
 library(plyr)
+library(stringr)
 library(rCharts)
 load("db.RData")
 infoText <- readLines(con="inforeadme.html")
