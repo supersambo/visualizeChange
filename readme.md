@@ -1,6 +1,8 @@
 This visualization is a contribution to #VisualizeChange the **World Humanitarian Summit Data Challenge** 2015.
 The interactive visualization can be accessed [here](http://supersambo.shinyapps.io/visualizeChange).  
 
+![](https://raw.githubusercontent.com/supersambo/visualizeChange/master/app_foto.png)
+
 **Background**  
  Leading up to the first-ever [World Humanitarian Summit](https://www.worldhumanitariansummit.org/) convened by the United Nations Secretary-General Ban Ki-moon, thousands of people worldwide have shared their ideas to reduce human loss and suffering from crisis. This consultation Process resulted in over 400 Documents giving valuable recommendations. The content of these documents has been qualitatively categorized into emerging themes and sub-themes and the documents have been grouped by various criteria including authorship, national and regional origin etc.   
 
