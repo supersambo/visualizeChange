@@ -11,7 +11,7 @@ ui = fluidPage(
     mainPanel(width=11,
     fluidRow(align="right",  
              tags$a(href = "https://twitter.com/supersambo", icon("twitter","fa-2x")),
-             tags$a(href = "http://github.com/supersambo", icon("github","fa-2x")),
+             tags$a(href = "http://github.com/supersambo/visualizeChange", icon("github","fa-2x")),
              tags$a(href = "mailto:stephan@schloegl.net", icon("envelope","fa-2x"))
              ),
 
